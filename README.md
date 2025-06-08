@@ -2,7 +2,7 @@
 # Jeopardy Game 1.0
 
 <p align="center">
-  <img src="[def]" alt="Jeopardy Game Screenshot" width="700" />
+  <img src="./screenshot.png" alt="Jeopardy Game Screenshot" width="700" />
 </p>
 
 This project is a **web-based Jeopardy trivia game** built using **Vue 3** (Options API) and **Vite**. It utilizes the [Open Trivia Database API](https://opentdb.com/) to dynamically populate the board with real-world trivia questions, organized by category and difficulty.
